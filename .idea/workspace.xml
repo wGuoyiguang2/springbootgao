@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/service/UserService.java" description="public User getUserById(String id);" line="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e05c3e89-2eca-4795-901c-9a42078e7253" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/myspringboot/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myspringboot/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="92" column="10" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/service/CartService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartServiceImp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/service/CartServiceImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataSourseConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/configuration/DataSourseConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspringboot/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="30" column="66" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspringboot/src/main/resources/mapper/user.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringBootApplicationDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/SpringBootApplicationDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuyerCart.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/model/BuyerCart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="59" column="58" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1660#1661#0" expanded="true" />
+                <element signature="e#1711#1712#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuyerItem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/model/BuyerItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="65" column="31" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="31" />
+              <folding>
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#803#804#0" expanded="true" />
+                <element signature="e#969#970#0" expanded="true" />
+                <element signature="e#1001#1002#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>redis</find>
+      <find>createBean</find>
+      <find>applyBean</find>
+      <find>doCreate</find>
+      <find>singletonObjects</find>
+      <find>postProcess</find>
+      <find>postProcessAfterInstantiation</find>
+      <find>pro</find>
+      <find>执行after()方法</find>
+      <find>package com\.example\.model\;\n\nimport com\.fasterxml\.jackson\.annotation\.JsonIgnore\;\n\nimport java\.io\.Serializable\;\nimport java\.util\.ArrayList\;\nimport java\.util\.List\;\n\npublic class BuyerCart implements Serializable \{\n\n    private static final long serialVersionUID \= 1L\;\n\n    private List\&lt;BuyerItem\&gt; items \= new ArrayList\&lt;BuyerItem\&gt;\(\)\;\n\n\n       \/\/添加购物项到购物车\n       public void addItem\(BuyerItem item\)\{\n              \/\/判断是否包含同款\n             if \(items\.contains\(item\)\) \{\n                      \/\/追加数量\n                  for \(BuyerItem buyerItem \: items\) \{\n                           if \(buyerItem\.equals\(item\)\) \{\n                                 buyerItem\.setAmount\(item\.getAmount\(\) \+ buyerItem\.getAmount\(\)\)\;\n                               \}\n                          \}\n                  \}else \{\n                    items\.add\(item\)\;\n            \}\n\n       \}\n\n    public List\&lt;BuyerItem\&gt; getItems\(\) \{\n               return items\;\n            \}\n\n    public void setItems\(List\&lt;BuyerItem\&gt; items\) \{\n                this\.items \= items\;\n            \}\n\n\n    \/\/小计\n    \/\/商品数量\n           \@JsonIgnore\n    public Integer getProductAmount\(\)\{\n              Integer result \= 0\;\n                \/\/计算\n               for \(BuyerItem buyerItem \: items\) \{\n                       result \+\= buyerItem\.getAmount\(\)\;\n                   \}\n              return result\;\n         \}\n\n\n    \/\/商品金额\n    \@JsonIgnore\n     public Float getProductPrice\(\)\{\n                 Float result \= 0f\;\n                 \/\/计算\n                 for \(BuyerItem buyerItem \: items\) \{\n                        result \+\= buyerItem\.getAmount\(\)\*buyerItem\.getSku\(\)\.getPrice\(\)\;\n                    \}\n               return result\;\n           \}\n\n    \/\/运费\n    \@JsonIgnore\n     public Float getFee\(\)\{\n               Float result \= 0f\;\n                \/\/计算\n                if \(getProductPrice\(\) \&lt; 79\) \{\n                       result \= 5f\;\n                   \}\n\n                 return result\;\n           \}\n\n\n    \/\/总价\n   \@JsonIgnore\n    public Float getTotalPrice\(\)\{\n                return getProductPrice\(\) \+ getFee\(\)\;\n          \}\n\n\}\n</find>
+      <find>hashCode</find>
+      <find>hash</find>
+      <find>put</find>
+      <find>putV</find>
+      <find>putVa</find>
+      <find>boot</find>
+      <find>druid</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/rocketmq/RocketMQConsumer.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/rocketmq/RocketMQProvider.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/rocketmq/TestController.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/zookeeper/distributelock/DistributeLock.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/zookeeper/distributelock/DistributeLockControllerTest.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/zookeeper/yizhixingpeizhi/CommonConfig.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/zookeeper/yizhixingpeizhi/ZkConfigMng.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/zookeeper/WatcherApi.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/zookeeper/ZkApi.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/zookeeper/ZookeeperConfig.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/zookeeper/ZookeeperControllerTest.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/CustomeInterceptor.fxml" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/MyTest.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/test/java/MyTest.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/MyAspect.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/User.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/service/UserService.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/model/User.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/service/UserServiceImp.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/resources/mapper/user.xml" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/mapper/UserDao.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/configuration/DataSourseConfiguration.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/model/BuyerCart.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/util/Constants.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/model/BuyerItem.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/model/Sku.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/service/CartService.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/service/CartServiceImp.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/util/SnowflakeIdUtils.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/util/SnowflakeIdWorker.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/ProductEntity.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/ProductDto.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/BaseResponse.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/redis/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/elasticsearch/ProductSearchService.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/elasticsearch/ProductSearchServiceImpl.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/mapper/ProductReposiory.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/com/example/redis/RedisTestController.java" />
+        <option value="$PROJECT_DIR$/myspringboot/pom.xml" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/java/SpringBootApplicationDemo.java" />
+        <option value="$PROJECT_DIR$/myspringboot/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.meihaochuxing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.meihaochuxing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.meihaochuxing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.boot:spring-boot-starter-aop:1.5.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.meihaochuxing" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.boot:spring-boot-starter-aop:1.5.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="org.springframework:spring-aop:4.3.8.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootgao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootgao" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="urrentHashMap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;HashMap&#9;FILE&#9;jar://F:/JavaSE_1.8/jdk1.8.0_111/src.zip!/java/util/HashMap.java&#10;BeanDefin&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.BeanDefinition&#10;AutoProxy&#9;FILE&#9;jar://F:/maven/repository/org/springframework/spring-aop/4.3.8.RELEASE/spring-aop-4.3.8.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java&#10;BeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.BeanFactory&#10;CapableBeanFactory&#9;FILE&#9;jar://F:/maven/repository/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gupao/2018/tom/gupaoedu-vip-elasticsearch" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.elasticsearch" />
+      <recent name="com.example.mapper" />
+      <recent name="com.example.entity" />
+      <recent name="com.example.controller" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\springboottest\myspringboot\src\main\java\com\example" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SpringBootApplicationDemo">
+    <configuration name="SnowflakeIdWorker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.util.SnowflakeIdWorker" />
+      <module name="com.meihaochuxing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SpringBootApplicationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringBootApplicationDemo" />
+      <module name="com.meihaochuxing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.meihaochuxing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.MyTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MyTest.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.meihaochuxing" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MyTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.meihaochuxing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.MyTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpringBootApplicationDemo" />
+      <item itemvalue="JUnit.MyTest.test1" />
+      <item itemvalue="JUnit.MyTest" />
+      <item itemvalue="JUnit.MyTest.test1 (1)" />
+      <item itemvalue="Application.SnowflakeIdWorker" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootApplicationDemo" />
+        <item itemvalue="Application.SnowflakeIdWorker" />
+        <item itemvalue="JUnit.MyTest.test1 (1)" />
+        <item itemvalue="JUnit.MyTest.test1" />
+        <item itemvalue="JUnit.MyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e05c3e89-2eca-4795-901c-9a42078e7253" name="Default" comment="" />
+      <created>1581397544763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581397544763</updated>
+      <workItem from="1581397655279" duration="3344000" />
+      <workItem from="1581493606732" duration="8108000" />
+      <workItem from="1581660687707" duration="11097000" />
+      <workItem from="1581832294342" duration="1196000" />
+      <workItem from="1581906538781" duration="801000" />
+      <workItem from="1582648882996" duration="16083000" />
+      <workItem from="1582718723214" duration="7790000" />
+      <workItem from="1582803626161" duration="7328000" />
+      <workItem from="1582884517494" duration="2108000" />
+      <workItem from="1582897324839" duration="3238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyTest_test1 - 2020.02.14 at 14h 31m 35s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest - 2020.02.14 at 14h 32m 04s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1 - 2020.02.14 at 14h 44m 37s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1 - 2020.02.14 at 14h 47m 09s.xml">
+      <configuration name="MyTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_test1_(1) - 2020.02.14 at 14h 54m 58s.xml">
+      <configuration name="MyTest.test1 (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61093000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="RestServices" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Redis Servers" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.27382752" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" order="13" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36408567" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32454696" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3294893" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32289952" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.49588138" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3294893" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5815486" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Redis Servers" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32289952" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.27382752" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.49588138" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="RestServices" order="11" />
+      <window_info anchor="bottom" id="MyBatis Log" order="13" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.42009884" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.8.RELEASE/spring-beans-4.3.8.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java</url>
+          <line>144</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="26" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/MyTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.8.RELEASE/spring-context-4.3.8.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="549" selection-start-line="549" selection-end-line="549" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/mapper/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/service/UserServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1.jar!/org/mybatis/spring/SqlSessionFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/redis/cart/Provider.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/util/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="57" lean-forward="true" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/redis/cart/Promotion.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/model/Sku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="1089" column="17" selection-start-line="1089" selection-start-column="17" selection-end-line="1089" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/JavaSE_1.8/jdk1.8.0_111/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="101" column="7" lean-forward="true" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/JavaSE_1.8/jdk1.8.0_111/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14124">
+          <caret line="687" column="57" selection-start-line="687" selection-start-column="57" selection-end-line="687" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/JavaSE_1.8/jdk1.8.0_111/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4356">
+          <caret line="266" column="52" selection-start-line="266" selection-start-column="52" selection-end-line="266" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/JavaSE_1.8/jdk1.8.0_111/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="67" column="51" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/JavaSE_1.8/jdk1.8.0_111/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="125" column="11" selection-start-line="125" selection-start-column="11" selection-end-line="125" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/util/SnowflakeIdUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/util/SnowflakeIdWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2741">
+          <caret line="125" column="25" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.6.RELEASE/spring-data-redis-2.0.6.RELEASE-sources.jar!/org/springframework/data/redis/cache/RedisCacheManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doraemon-master/transaction/src/main/java/com/example/transaction/transaction/testTransaction/BarService.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/a" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/redis/RedisUtils.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/MyAspect.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/BaseResponse.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/ProductDto.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/ProductEntity.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/UserGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/fastjsontest/FastJsonTest.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/fastjsontest/jsonString.txt" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/myspringboot.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/redis/RedisConfig.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/test/java/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/controller/CartController.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/elasticsearch/ProductSearchService.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/elasticsearch/ProductSearchServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/redis/RedisTestController.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/service/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/service/CartServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/configuration/DataSourseConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/mapper/ProductReposiory.java" />
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/SpringBootApplicationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/model/BuyerCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="59" column="58" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1660#1661#0" expanded="true" />
+            <element signature="e#1711#1712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/java/com/example/model/BuyerItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="65" column="31" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="31" />
+          <folding>
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#969#970#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/resources/mapper/user.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="30" column="66" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myspringboot/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="92" column="10" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
